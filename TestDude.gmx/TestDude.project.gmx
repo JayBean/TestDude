@@ -11,6 +11,7 @@
   <objects name="objects">
     <object>objects\jew</object>
     <object>objects\beans</object>
+    <object>objects\coins</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
