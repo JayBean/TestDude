@@ -10,6 +10,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\jew</object>
+    <object>objects\beans</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
