@@ -10,7 +10,6 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
-    <script>scripts\newscript123.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\jew</object>
@@ -21,6 +20,7 @@
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room1</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
